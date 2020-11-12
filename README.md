@@ -1,2 +1,1 @@
-# supply-mission2
-sm2
+# SupplyMission
